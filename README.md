@@ -1,2 +1,2 @@
-# Simple_face_detection
+# Simple face detection
 A very simple face detection using OpenCV2
